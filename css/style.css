@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+.logo{
+    position: relative;
+    left: 100px;
+}
+ul{
+    position: relative;
+    list-style: none;
+    display: flex;
+    left: 700px;
+    bottom: 130px;
+}
+ul li a{
+    text-decoration: none;
+    padding: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+header{
+    position: relative;
+    bottom: 60px;
+}
+section div h1{
+    text-align: center;
+}
+.text{
+    position: relative;
+    left: 300px;
+    top: 75px;
+    font-size: 45px;
+}
+.contenu{
+    position: relative;
+    background-color: bisque;
+    height: 800px;
+    width: 1260px;
+    left: 50px;
+    bottom: 250px;
+    border-radius: 20px;
+}
+.pic1{
+    position: relative;
+    bottom: 250px;
+    left: 100px;
+}
+.pic2{
+    position: relative;
+    bottom: 665px;
+    left: 1000px;
+}
+.text1{
+    position: relative;
+    left: 250px;
+    bottom: 475px;
+    font-size: 30px;
+}
+.pic3{
+    position: relative;
+    bottom: 645px;
+    left: 560px;
+}
+.text2{
+    position: relative;
+    left: 680px;
+    bottom: 715px;
+    font-size: 30px;
+}
+button a{
+    text-decoration: none;
+    position: relative;
+    bottom: 720px;
+    left: 680px;
+    font-size: 20px;
+    color: white;
+    border-color: red;
+    background-color: red;
+    border-radius: 6px;
+    padding: 15px;
+}
+.pic4{
+    position: relative;
+    bottom: 605px;
+    left: 70px;
+}
